@@ -1,4 +1,20 @@
 1
-00:00:20,856 --> 00:00:29,440
- client
+00:00:02,048 --> 00:00:08,288
+ Sales use customer relationship management systems to help their daily work throughout the end-to-end sales processes
+
+2
+00:00:08,288 --> 00:00:09,288
+ processes.
+
+3
+00:00:09,288 --> 00:00:16,288
+ to provide smart sales and helper functionalities based on ML and AI models can enable many during sites.
+
+4
+00:00:16,288 --> 00:00:19,728
+ optimized sales strategy, operations and management activities,
+
+5
+00:00:19,728 --> 00:00:22,047
+ the streamlined operations and safe resources.
 

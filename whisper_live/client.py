@@ -116,11 +116,18 @@ class Client:
         if self.last_received_segment is None or self.last_received_segment != segments[-1]["text"]:
             self.last_response_received = time.time()
             self.last_received_segment = segments[-1]["text"]
+            
+        # text output
+        with open('output.txt', 'a') as f:
+            for line in text:
+                f.write(line)
+            f.write('\n')
 
         # Truncate to last 3 entries for brevity.
         text = text[-3:]
         utils.clear_screen()
         utils.print_transcript(text)
+
 
     def on_message(self, ws, message):
         """
@@ -540,6 +547,7 @@ class TranscriptionTeeClient:
 
                 audio_array = self.bytes_to_float_array(data)
 
+                # Send data to server
                 self.multicast_packet(audio_array.tobytes())
 
                 # save frames if more than a minute
