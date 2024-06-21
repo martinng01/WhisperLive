@@ -1,64 +1,15 @@
-1
-00:00:04,096 --> 00:00:08,375
  use customer relationship management systems to help the daily world throughout end-to-end
-
-2
-00:00:08,375 --> 00:00:10,795
  sales processors.
-
-3
-00:00:10,795 --> 00:00:16,435
  To provide smart sales helpful functionalities, based on ML and AI models, can enable managerial
-
-4
-00:00:16,435 --> 00:00:21,716
  insights, optimized sales strategy, operations and management activities to streamline operations
-
-5
-00:00:21,716 --> 00:00:31,487
  and save resources.
-
-6
-00:00:34,560 --> 00:00:39,167
  What?
-
-7
-00:00:40,192 --> 00:00:45,712
  I thought it was late.
-
-8
-00:00:45,712 --> 00:00:48,712
  is a smart sales app helper thing.
-
-9
-00:00:48,712 --> 00:00:55,212
  So like doing an audio call right and then there'll be like a live transcription of what you say
-
-10
-00:00:55,212 --> 00:01:03,271
  and then from that transcription rate you can determine a lot of things like the other
-
-11
-00:01:03,271 --> 00:01:09,712
  about these emotions and you can even like give you suggestions on what to say next.
-
-12
-00:01:09,712 --> 00:01:10,712
  Yeah.
-
-13
-00:01:10,712 --> 00:01:13,712
  Let's go on up, right?
-
-14
-00:01:13,712 --> 00:01:15,072
  What's going up there?
-
-15
-00:01:15,072 --> 00:01:21,920
  Yeah, all that kind of thing.
-
-16
-00:01:33,183 --> 00:01:40,352
- No, no
-

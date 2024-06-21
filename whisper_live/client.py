@@ -122,6 +122,12 @@ class Client:
             for line in text:
                 f.write(line)
             f.write('\n')
+        
+        # full transcript
+        with open('transcript.txt', 'w') as f:
+            for line in self.transcript:
+                f.write(line['text'])
+                f.write('\n')
 
         # Truncate to last 3 entries for brevity.
         text = text[-3:]
